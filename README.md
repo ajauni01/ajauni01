@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jCHUzDl6NTJ4CGCMJb3EeAsYj0m_4duv/view?usp=sharing](https://drive.google.com/file/d/1jCHUzDl6NTJ4CGCMJb3EeAsYj0m_4duv/view?usp=sharing)
 
-- ⚡ Fun fact **Lived in a college dorm for ten years – my alma mater felt like a second home!**
+- ⚡ Fun fact **Lived in a school dorm for ten years – my alma mater felt like a second home!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
