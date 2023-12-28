@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajauni01@wsc.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jCHUzDl6NTJ4CGCMJb3EeAsYj0m_4duv/view?usp=sharing](https://drive.google.com/file/d/1jCHUzDl6NTJ4CGCMJb3EeAsYj0m_4duv/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1GBpYiFBQSPhj2h3BXLUIpEj0PM_btvRN/view?usp=sharing)
 
 - ⚡ Fun fact **Lived in a school dorm for ten years – my alma mater felt like a second home!**
 
