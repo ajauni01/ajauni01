@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauni01&label=Profile%20views&color=0e75b6&style=flat" alt="ajauni01" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack E-Commerce Web Application**
+- 🔭 I’m currently working on **Qweek.ai**
 
 - 🌱 I’m currently learning **Next.js, MySQL**
 
