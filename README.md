@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauni01&label=Profile%20views&color=0e75b6&style=flat" alt="ajauni01" /> </p>
 
-- 🔭 I’m currently working on **Qweek.ai**
+- 🔭 I’m currently working at **Daycos** as a SWE intern
 
-- 🌱 I’m currently learning **Next.js, MySQL**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajauni01](https://github.com/ajauni01)
 
