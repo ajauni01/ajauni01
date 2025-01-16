@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauni01&label=Profile%20views&color=0e75b6&style=flat" alt="ajauni01" /> </p>
 
-- 🔭 I’m currently working at **Daycos** as a SWE intern
+- 🔭 I’m currently working at **ZiNiPay** as a Software Developer
 
 - 🌱 I’m currently learning **Docker**
 
